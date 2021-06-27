@@ -1,0 +1,2 @@
+# BSG-workplace
+yes
